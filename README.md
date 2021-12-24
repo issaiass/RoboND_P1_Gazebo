@@ -14,8 +14,8 @@ NOTE:
 Below a few image examples of the outcome.
 
 <p align="center">
-<img src = "doc/imgs/world.PNG?raw=true" width="65%"/>
-<img src = "doc/imgs/plugin.PNG?raw=true" width="55%"/>
+<img src = "doc/imgs/gazebo.PNG?raw=true" width="65%"/>
+<img src = "doc/imgs/gazebo_plugin.PNG?raw=true" width="55%"/>
 <img src = "doc/imgs/model.PNG?raw=true" width="45%"/>
 </p>
 
